@@ -51,11 +51,12 @@
         "transparent": false,
         "decorations": true,
         "fullscreen": false,
-        "height": 600,
+        "height": 400,
         "resizable": true,
-        "title": "nextauri",
-        "width": 800,
-        "useHttpsScheme": true
+        "title": "Password Generator",
+        "width": 300,
+        "useHttpsScheme": true,
+        "center": true
       }
     ],
     "security": {
