@@ -1,5 +1,5 @@
 "use client"
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { generatePassword } from 'utils/password';
 import { Copy, Check } from 'lucide-react';
 import './style.css';

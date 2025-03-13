@@ -40,7 +40,7 @@
       }
     }
   },
-  "productName": "nextauri",
+  "productName": "nextauri-pwgen",
   "mainBinaryName": "nextauri",
   "version": "0.1.0",
   "identifier": "com.nextauri.dev",
